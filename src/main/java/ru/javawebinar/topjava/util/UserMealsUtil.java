@@ -29,7 +29,6 @@ public class UserMealsUtil {
             System.out.println(e.getMessage());
         }
 
-
 //        System.out.println(filteredByStreams(meals, LocalTime.of(7, 0), LocalTime.of(12, 0), 2000));
     }
 
